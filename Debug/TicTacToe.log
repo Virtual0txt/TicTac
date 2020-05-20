@@ -1,0 +1,27 @@
+﻿  pch.cpp
+c:\users\place\source\repos\tictactoe\tictactoe\pch.h(12): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Button.cpp
+c:\users\place\source\repos\tictactoe\tictactoe\button.cpp(24): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\place\source\repos\tictactoe\tictactoe\button.cpp(25): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+c:\users\place\source\repos\tictactoe\tictactoe\game.cpp(28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\place\source\repos\tictactoe\tictactoe\game.cpp(33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\place\source\repos\tictactoe\tictactoe\game.cpp(37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\place\source\repos\tictactoe\tictactoe\game.cpp(102): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\place\source\repos\tictactoe\tictactoe\game.cpp(107): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\place\source\repos\tictactoe\tictactoe\game.cpp(216): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  TicTacToe.cpp
+  Generowanie kodu...
+  TicTacToe.vcxproj -> C:\Users\place\source\repos\TicTacToe\Debug\TicTacToe.exe
